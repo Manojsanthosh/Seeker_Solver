@@ -37,3 +37,14 @@ android/.gradle
 android/local.properties
 android/captures
 .gradle
+
+# Python / Backend
+backend/venv/
+backend/.venv/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.db
+*.sqlite3
+backend/.pytest_cache/
+backend/.ruff_cache/
